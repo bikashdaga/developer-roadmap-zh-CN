@@ -1,6 +1,6 @@
-![Web开发者路线图](http://i.imgur.com/16BbwYk.png)
+![Web开发者学习路线图](https://i.imgur.com/nzH4bti.png)
 
-> Web开发者学习路线图 (2017.07版)
+> Web开发者学习路线图 (2018.01.06版)
 
 以下路线图主要展示了成为前端开发者、后端开发者或DevOps的技术学习路线。本项目源于我为一位老教授制作的、用于跟学生们分享和交流观点的学习路线图。
 
@@ -8,28 +8,28 @@
 
 ***
 
-<p align="center"><b> 喜欢本篇指南、还想获取更多类似资讯吗？ </b><br>我们的网站 <a href="http://hugobots.com">Hugobots</a> 已经上线了，欢迎订阅！</p>
+<p align="center"><b> 喜欢本篇指南、还想获取更多类似资讯吗？ </b><br>敬请访问 <a href="http://hugobots.com">Hugobots</a> 或关注本人 <a href="https://twitter.com/kamranahmedse">Twitter</a></p>
 
 ***
 
 
 ## 🚀 导图
 
-![](https://i.imgur.com/gbojuvT.png)
+![](https://i.imgur.com/EokXhw0.png)
 
 ## 🎨 前端学习路线图
 
-![](https://i.imgur.com/9HPOvxx.png)
+![](https://i.imgur.com/hyHk7v4.png)
 
 ## 👽 后端学习路线图
 
-对于后端方向，我个人更青睐于将 Node.js 和 PHP 7 作为技术栈。最近我还尝试了 Go 语言，很是喜欢。若要除去这些，再选一门语言，我会给 Ruby 投上一票。不过这只是本人的一家之辞，您大可以选用图中的任意一种语言，同样能够做得很好。
+对于后端方向，我个人更青睐于将 Node.js 和 PHP 7 作为技术栈。最近我还尝试了 Go 语言，很是喜欢。若要除去这些，再选一门语言，我会给 Ruby 投上一票。不过这只是本人的一家之辞，您大可以选用图中的任意一种语言。
 
-![](https://i.imgur.com/Ej2BVMi.png)
+![](https://i.imgur.com/eKlWQT8.png)
 
 ## 👷 运维开发学习路线图
 
-![](https://i.imgur.com/uED4MAC.png)
+![](https://i.imgur.com/Vk1bQZt.png)
 
 <br>
 
@@ -46,19 +46,18 @@
 
 ## 👬 投稿/协作
 
-本项目路线图基于 [Balsamiq](https://balsamiq.com/products/mockups/) 生成，路线图文件位于 `/project-files` 目录下。若需修改路线图，请运行 Balsamiq 后，点选 **Project > Import > Mockup JSON**，程序会为您载入对应的路线图。接下来，您应依次进行内容修正、文档上传，并更新README文件中的图片超链接，最后提交合并请求(Pull Request)。	
+本项目路线图基于 [Balsamiq](https://balsamiq.com/products/mockups/) 生成，路线图文件位于 `/project-files` 目录下。若需进行修改，请运行 Balsamiq 后，点选 **Project > Import > Mockup JSON**，程序会为您载入对应的路线图数据。接下来，您应依次进行内容修正、文档上传，并更新README文件中的图片超链接等操作，最后提交合并请求(Pull Request)。	
 
 - 附上改进内容，提交合并请求(Pull Request)
 - 创建 Issue、讨论交流
 - 相互转告
+- 联系本人 [![Twitter页面](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
 
 ## 赞助方
 
 - [Hackr.IO - 探索、分享线上最佳的编程教学课程](https://hackr.io)
-- [FancyGrid - 支持图标交互和服务器通讯的 JavaScript 数据网格库](http://fancygrid.com)
+- [HigHig - 所思即所建，提供初创/小型企业建站服务](http://highig.com/)
 
 ## 许可协议
 
 [![许可协议: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![捐赠](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/kamranahmedse)
-[![推特主页](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20@kamranahmedse)](https://twitter.com/kamranahmedse)
