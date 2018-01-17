@@ -19,7 +19,7 @@
 
 ## 🎨 前端学习路线图
 
-![](https://i.imgur.com/hyHk7v4.png)
+![](https://i.imgur.com/mGMVMJX.png)
 
 ## 👽 后端学习路线图
 
