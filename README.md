@@ -29,7 +29,7 @@
 
 ## 👷 运维开发学习路线图
 
-![](https://i.imgur.com/Vk1bQZt.png)
+![](https://i.imgur.com/7oxGfeC.png)
 
 <br>
 
