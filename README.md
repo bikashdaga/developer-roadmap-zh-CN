@@ -61,3 +61,7 @@
 ## 许可协议
 
 [![许可协议: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starcharts.herokuapp.com/z-jingjie/developer-roadmap-zh-CN.svg)](https://github.com/z-jingjie/developer-roadmap-zh-CN)
