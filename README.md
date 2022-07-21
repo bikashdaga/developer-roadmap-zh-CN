@@ -57,6 +57,7 @@
 
 - [Hackr.IO - 探索、分享线上最佳的编程教学课程](https://hackr.io)
 - [HigHig - 所思即所建，提供初创/小型企业建站服务](http://highig.com/)
+- [Scaler - 学习编程语言的免费资源](https://www.scaler.com/topics/)
 
 ## 许可协议
 
